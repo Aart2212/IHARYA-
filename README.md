@@ -1,2 +1,1 @@
-# IHARYA-
-e-commerce website using html,javascript,css and lss
+IHARYA is a sleek and responsive e-commerce website designed for showcasing and selling silver jewelry online. Built using HTML, CSS, LESS, and JavaScript, this project offers a user-friendly interface and seamless navigation for an enhanced shopping experience. The site features product listings, category filters, a shopping cart, and a visually appealing layout that highlights the elegance of the jewelry. LESS is used for efficient and modular styling, while JavaScript handles interactivity such as cart management and dynamic content updates. This project serves as a front-end prototype for an online jewelry store, laying the foundation for future integration with backend technologies and payment gateways.
